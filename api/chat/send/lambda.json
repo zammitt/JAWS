@@ -1,5 +1,5 @@
 {
-    "FunctionName": "api_users_show",
+    "FunctionName": "api_chat_send",
     "Handler": "index.handler",
     "Role": null,
     "Runtime": "nodejs",

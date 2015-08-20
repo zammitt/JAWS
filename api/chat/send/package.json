@@ -4,7 +4,7 @@
     "main": "index.js",
     "private": true,
     "scripts": {},
-    "author": "Austen Collins <austen@servant.co>",
+    "author": "Alex Zammitt",
     "license": "MIT",
     "dependencies": {}
 }

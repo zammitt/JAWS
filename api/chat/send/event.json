@@ -1,4 +1,7 @@
 {
-    "body": {},
-    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJ1X2FkN2Y5MGMwLTNiZWItMTFlNS05MDVjLWUzNzViNDljNDhkMiIsImlhdCI6MTQzODgzMTk3NSwiZXhwIjoxNDM5NDM2Nzc1LCJpc3MiOiJKQVdTIn0.FlISdHxUrFdrDkovrq_RRwxHqlzaSL3GShr27xlvcB0"
+    "body": {
+        "message": "hello world",
+        "username": "alex"
+    },
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJ1Xzc1ZGQ3ODkwLTQ1ZjktMTFlNS05N2QzLTYzMDA5YWI4MmUxMCIsImlhdCI6MTQ0MDAzNzE5MCwiZXhwIjoxNDQwNjQxOTkwLCJpc3MiOiJqYXdzY2hhdCJ9.5X3ycuVU8v478vyvcuPvLnwBkvVi0tpNQKpjQkuJXeI"
 }
